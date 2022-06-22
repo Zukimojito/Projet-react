@@ -1,0 +1,28 @@
+.Gallery-content {
+    padding : 50px 3vw; 
+    text-align: center;
+}
+
+
+.list-group{
+    
+   display : flex;
+   flex-wrap : wrap;
+   justify-content: center;
+   align-items: center;
+}
+
+.container-cat{
+    padding: 0px;
+    margin: 10px 5px;
+    /* border : 1px solid rgb(112, 8, 8); */
+    background-color: white;
+}
+
+.img-cat{
+    display : flex;
+    height : 290px;
+    width: 300px;
+    object-fit: cover;
+}
+

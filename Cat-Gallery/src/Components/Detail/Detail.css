@@ -1,0 +1,28 @@
+.detail-content{
+    text-align: center;
+
+}
+
+.cat-container{
+    
+    display : flex;
+   flex-wrap : wrap;
+   justify-content: center;
+   align-items: center;
+    padding : 25px 50px;
+
+}
+
+.cat-infos{
+    height: 500px;
+    font-size: 30px;
+}
+
+.img-cat-detail{
+    
+    display : flex;
+    height : 500px;
+    width: 500px;
+    object-fit: cover;
+    margin-right: 5%;
+}
