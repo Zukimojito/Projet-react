@@ -1,0 +1,17 @@
+.container-contact{
+    max-width: 700px;
+    margin : 100px auto ;
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-contact h1{
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.container-contact p:nth-child(4){
+    margin-top: 20px;
+}
